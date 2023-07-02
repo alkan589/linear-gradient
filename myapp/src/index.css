@@ -1,0 +1,25 @@
+.body{
+    padding: 0px;
+    margin:0px;
+    height: 100vh;
+}
+
+label{
+    font-size: 35px;
+}
+.input{
+    width:25%;
+    height:50px;
+
+}
+label,.input{
+    display:block;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 35px;
+
+}
+.my-app form{
+    text-align: center;
+ 
+}
